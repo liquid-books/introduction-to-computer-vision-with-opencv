@@ -1,7 +1,7 @@
 {
   "name": "introduction-to-computer-vision-with-opencv",
   "version": "1.0.0",
-  "description": "This book is going to be an introduction to computer vision book for artificial intelligence undergraduate students. They have Python experience and they should have taken machine learning one and machine learning two.",
+  "description": "An intro to Computer Vision Undergraduate Artificial Intelligence textbook.  ",
   "scripts": {
     "start": "myst start",
     "build": "myst build --html",

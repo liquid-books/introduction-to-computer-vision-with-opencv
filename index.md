@@ -5,7 +5,7 @@ title: Introduction to Computer Vision with OpenCV
 
 # Introduction to Computer Vision with OpenCV
 
-This book is going to be an introduction to computer vision book for artificial intelligence undergraduate students. They have Python experience and they should have taken machine learning one and machine learning two.
+An intro to Computer Vision Undergraduate Artificial Intelligence textbook.  
 
 ## About This Book
 
