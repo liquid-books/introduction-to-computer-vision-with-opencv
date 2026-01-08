@@ -1,7 +1,7 @@
 {
   "name": "introduction-to-computer-vision-with-opencv",
   "version": "1.0.0",
-  "description": " Introduction\n System Setup\n Module 1 - Getting Started with Images\n Module 2 - Basic Image Operations\n Module 3 - Histograms and Color Segmentation\n Module 4 - Video Processing and Analysis\n Module 5 - Contour and Shape Analysis\n Module 6 - Playing Games Using CV (HCI)\n Module 7 - Building & Deploy Web Apps\n Module 8 - Image Filtering and Enhancement\n Module 9 - Lane Detection using Hough Transforms\n Module 10 - Image Restoration Techniques\n Module 11 - Image Registration Techniques\n Module 12 - ArUco Markers for Augmented Reality\n Module 13 - Deep Learning with OpenCV\n Module 14 - Face and Landmarks Detection\n Module 15 - Object Detection\n Module 16 - Object Tracking\n Module 17 - Human Pose Estimation\n Module 18 - Person Segmentation\n Module 19 - Text Detection and OCR\n Module 20 - Super Resolution\n Module 21 - Barcodes and QR Codes using OpenCV\n Module 22 - Deploying Applications on the Cloud\n Module 23 - Depth Applications using OpenCV",
+  "description": "This book is going to be an introduction to computer vision book for artificial intelligence undergraduate students. They have Python experience and they should have taken machine learning one and machine learning two.",
   "scripts": {
     "start": "myst start",
     "build": "myst build --html",

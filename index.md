@@ -5,31 +5,7 @@ title: Introduction to Computer Vision with OpenCV
 
 # Introduction to Computer Vision with OpenCV
 
- Introduction
- System Setup
- Module 1 - Getting Started with Images
- Module 2 - Basic Image Operations
- Module 3 - Histograms and Color Segmentation
- Module 4 - Video Processing and Analysis
- Module 5 - Contour and Shape Analysis
- Module 6 - Playing Games Using CV (HCI)
- Module 7 - Building & Deploy Web Apps
- Module 8 - Image Filtering and Enhancement
- Module 9 - Lane Detection using Hough Transforms
- Module 10 - Image Restoration Techniques
- Module 11 - Image Registration Techniques
- Module 12 - ArUco Markers for Augmented Reality
- Module 13 - Deep Learning with OpenCV
- Module 14 - Face and Landmarks Detection
- Module 15 - Object Detection
- Module 16 - Object Tracking
- Module 17 - Human Pose Estimation
- Module 18 - Person Segmentation
- Module 19 - Text Detection and OCR
- Module 20 - Super Resolution
- Module 21 - Barcodes and QR Codes using OpenCV
- Module 22 - Deploying Applications on the Cloud
- Module 23 - Depth Applications using OpenCV
+This book is going to be an introduction to computer vision book for artificial intelligence undergraduate students. They have Python experience and they should have taken machine learning one and machine learning two.
 
 ## About This Book
 
