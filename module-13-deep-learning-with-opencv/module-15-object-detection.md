@@ -1,8 +1,8 @@
 ---
-title: Module 19 - Text Detection and OCR
+title: Module 15 - Object Detection
 ---
 
-# Module 19 - Text Detection and OCR
+# Module 15 - Object Detection
 
 
 
@@ -13,7 +13,7 @@ This chapter is a placeholder. Use the AI-powered chapter editor to generate con
 
 ## Overview
 
-This chapter covers **Module 19 - Text Detection and OCR**.
+This chapter covers **Module 15 - Object Detection**.
 
 Content coming soon...
 
@@ -27,12 +27,12 @@ Content coming soon...
 
 ```python
 # Example code will be added here
-print("Hello from Module 19 - Text Detection and OCR")
+print("Hello from Module 15 - Object Detection")
 ```
 
 ## Summary
 
-Summary of Module 19 - Text Detection and OCR will be added here.
+Summary of Module 15 - Object Detection will be added here.
 
 ---
 

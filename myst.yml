@@ -6,7 +6,7 @@ version: 1
 
 project:
   title: "Introduction to Computer Vision with OpenCV"
-  description: "An intro to Computer Vision Undergraduate Artificial Intelligence textbook.  "
+  description: "This is an introduction to Computer Vision undergraduate course.  Students will have experience with Python"
   authors:
     - name: "Dr. Ernesto Lee"
   github: https://github.com/liquid-books/introduction-to-computer-vision-with-opencv
@@ -23,19 +23,23 @@ project:
     - file: module-8-image-filtering-and-enhancement.md
     - file: module-9-lane-detection-using-hough-transforms.md
     - file: module-10-image-restoration-techniques.md
-    - file: module-11-image-registration-techniques.md
+      children:
+        - file: module-11-image-registration-techniques.md
     - file: module-12-aruco-markers-for-augmented-reality.md
     - file: module-13-deep-learning-with-opencv.md
-    - file: module-14-face-and-landmarks-detection.md
-    - file: module-15-object-detection.md
+      children:
+        - file: module-14-face-and-landmarks-detection.md
+        - file: module-15-object-detection.md
     - file: module-16-object-tracking.md
-    - file: module-17-human-pose-estimation.md
-    - file: module-18-person-segmentation.md
+      children:
+        - file: module-17-human-pose-estimation.md
+        - file: module-18-person-segmentation.md
     - file: module-19-text-detection-and-ocr.md
-    - file: module-20-super-resolution.md
-    - file: module-21-barcodes-and-qr-codes-using-opencv.md
-    - file: module-22-deploying-applications-on-the-cloud.md
-    - file: module-23-depth-applications-using-opencv.md
+      children:
+        - file: module-20-super-resolution.md
+        - file: module-21-barcodes-and-qr-codes-using-opencv.md
+        - file: module-22-deploying-applications-on-the-cloud.md
+        - file: module-23-depth-applications-using-opencv.md
 
 site:
   template: book-theme
