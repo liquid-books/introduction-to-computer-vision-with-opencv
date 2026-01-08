@@ -5,7 +5,7 @@ title: Introduction to Computer Vision with OpenCV
 
 # Introduction to Computer Vision with OpenCV
 
-This is an introduction to Computer Vision undergraduate course.  Students will have experience with Python
+An introduction to Computer Vision for undergraduate students with Python.  students will be expected to know python
 
 ## About This Book
 
@@ -13,21 +13,21 @@ Written by Dr. Ernesto Lee
 
 ## Table of Contents
 
-- [Introduction](introduction.md)
-- [Module 1 - Getting Started with Images](module-1-getting-started-with-images.md)
-- [Module 2 - Basic Image Operations](module-2-basic-image-operations.md)
-- [Module 3 - Histograms and Color Segmentation](module-3-histograms-and-color-segmentation.md)
-- [Module 4 - Video Processing and Analysis](module-4-video-processing-and-analysis.md)
-- [Module 5 - Contour and Shape Analysis](module-5-contour-and-shape-analysis.md)
-- [Module 6 - Playing Games Using CV (HCI)](module-6-playing-games-using-cv-hci.md)
-- [Module 7 - Building & Deploy Web Apps](module-7-building-deploy-web-apps.md)
-- [Module 8 - Image Filtering and Enhancement](module-8-image-filtering-and-enhancement.md)
-- [Module 9 - Lane Detection using Hough Transforms](module-9-lane-detection-using-hough-transforms.md)
-- [Module 10 - Image Restoration Techniques](module-10-image-restoration-techniques.md)
-- [Module 12 - ArUco Markers for Augmented Reality](module-12-aruco-markers-for-augmented-reality.md)
-- [Module 13 - Deep Learning with OpenCV](module-13-deep-learning-with-opencv.md)
-- [Module 16 - Object Tracking](module-16-object-tracking.md)
-- [Module 19 - Text Detection and OCR](module-19-text-detection-and-ocr.md)
+- [Introduction to Computer Vision](introduction-to-cv.md)
+- [Image Basics and I/O](image-basics-io.md)
+- [Basic Image Operations](basic-image-operations.md)
+- [Drawing and Annotation](drawing-annotation.md)
+- [Image Arithmetic and Bitwise Operations](arithmetic-bitwise.md)
+- [Color Spaces and Histograms](color-histograms.md)
+- [Smoothing and Blurring](smoothing-blurring.md)
+- [Thresholding and Segmentation](thresholding-segmentation.md)
+- [Morphological Operations](morphological-operations.md)
+- [Edge and Contour Detection](edge-contour-detection.md)
+- [Feature Detection and Matching](feature-detection.md)
+- [Object Detection with Haar Cascades](haar-cascades.md)
+- [Video Processing and Motion](video-processing.md)
+- [Introduction to Deep Learning with OpenCV](dnn-module.md)
+- [Capstone Projects](capstone-projects.md)
 
 ---
 
